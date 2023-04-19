@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# TODAY I LEARNED 👨🏽‍💻☕✌🏽
 
 TODAY I LEARNED is my very first Full-Stack Web Application 👨🏽‍💻☕✌🏽
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
